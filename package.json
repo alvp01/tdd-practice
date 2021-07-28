@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "name": "tdd-practice",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
